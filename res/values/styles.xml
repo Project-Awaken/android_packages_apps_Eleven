@@ -33,7 +33,7 @@
         <item name="android:windowContentTransitions">true</item>
         <item name="android:windowAllowEnterTransitionOverlap">false</item>
         <item name="android:windowAllowReturnTransitionOverlap">false</item>
-        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@*android:color/system_neutral1_0</item>
         <item name="android:windowLightStatusBar">true</item>
         <item name="android:windowLightNavigationBar">true</item>
     </style>
@@ -45,7 +45,7 @@
         <item name="dropDownListViewStyle">@style/DropDownListView</item>
         <item name="textAppearanceSmallPopupMenu">@style/SmallPopupMenu</item>
         <item name="textAppearanceLargePopupMenu">@style/LargePopupMenu</item>
-        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColorPrimary">@*android:color/system_neutral1_900</item>
     </style>
 
     <style name="TextAppearance.Widget.Event.Toolbar.Title" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
@@ -175,7 +175,7 @@
 
     <style name="ToolBarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar"/>
     <style name="ToolBarThemeMP" parent="@style/ThemeOverlay.AppCompat.ActionBar">
-        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlNormal">@*android:color/system_neutral1_0</item>
     </style>
 
     <style name="ToolBarPopupTheme" parent="@style/Theme.AppCompat.Light" />

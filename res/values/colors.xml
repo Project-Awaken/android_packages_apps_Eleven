@@ -104,7 +104,6 @@
     <color name="letter_tile_default_color">@*android:color/system_accent1_600</color>
     <color name="letter_tile_font_color">@*android:color/system_neutral1_0</color>
     <array name="letter_tile_colors">
-        <item>@*android:color/system_accent1_100</item>
         <item>@*android:color/system_accent2_100</item>
         <item>@*android:color/system_accent3_100</item>
         <item>@*android:color/system_accent1_200</item>

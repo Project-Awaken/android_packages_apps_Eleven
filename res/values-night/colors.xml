@@ -17,8 +17,8 @@
 <resources>
     <!-- Material -->
     <color name="primary">@*android:color/system_neutral1_900</color>
-    <color name="primary_dark">@*android:color/system_neutral1_1000</color>
-    <color name="accent">@*android:color/system_accent1_200</color>
+    <color name="primary_dark">@*android:color/system_neutral1_900</color>
+    <color name="accent">@*android:color/system_accent1_100</color>
 
     <!-- Standard Text Color -->
     <color name="default_text_color">@*android:color/system_neutral1_0</color>
@@ -34,12 +34,12 @@
     <color name="position_number_color">@*android:color/system_neutral1_1000</color>
 
     <!-- Color for the action bar -->
-    <color name="header_action_bar_text_color_active">@*android:color/system_accent1_200</color>
+    <color name="header_action_bar_text_color_active">@*android:color/system_accent1_100</color>
     <color name="header_action_bar_text_color">@*android:color/system_neutral1_0</color>
     <color name="bottom_action_bar_text_color">@color/default_text_color_light</color>
 
     <!-- Background color used on some page headers -->
-    <color name="page_header_background">@*android:color/system_neutral1_1000</color>
+    <color name="page_header_background">@*android:color/system_neutral1_900</color>
 
     <!-- Color for background for shadow on playlist page -->
     <color name="header_shadow_color">#ea212121</color>
@@ -54,6 +54,6 @@
     <color name="widget_background_color">@*android:color/system_neutral1_900</color>
     
     <!-- Top title page colors -->
-    <color name="tab_ripple_color">@*android:color/system_accent1_200</color>
-    <color name="tab_selected_underline_color">@*android:color/system_accent1_200</color>
+    <color name="tab_ripple_color">@*android:color/system_accent1_100</color>
+    <color name="tab_selected_underline_color">@*android:color/system_accent1_100</color>
 </resources>

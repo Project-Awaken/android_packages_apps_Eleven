@@ -18,11 +18,11 @@
 <resources>
     <!-- Material -->
     <color name="primary">@*android:color/system_neutral1_0</color>
-    <color name="primary_dark">@*android:color/system_neutral1_50</color>
+    <color name="primary_dark">@*android:color/system_neutral1_0</color>
     <color name="accent">@*android:color/system_accent1_600</color>
 
     <!-- Main colors -->
-    <color name="black">@*android:color/system_neutral1_900</color>
+    <color name="black">@*android:color/system_neutral1_1000</color>
     <color name="white">@*android:color/system_neutral1_0</color>
     <color name="grey">#9e9e9e</color>
     <color name="grey_dark">#616161</color>
@@ -44,8 +44,8 @@
     <color name="blue_dark">#303F9F</color>
 
     <!-- Standard Text Color -->
-    <color name="default_text_color">@*android:color/system_neutral1_900</color>
-    <color name="default_text_color_light">@*android:color/system_neutral1_900</color>
+    <color name="default_text_color">@*android:color/system_neutral1_1000</color>
+    <color name="default_text_color_light">@*android:color/system_neutral1_1000</color>
 
     <!-- Cards -->
     <color name="cards_bg_color">@*android:color/system_neutral1_0</color>
@@ -57,7 +57,7 @@
 
     <!-- Color for the action bar -->
     <color name="header_action_bar_color">@color/primary</color>
-    <color name="header_action_bar_text_color">@*android:color/system_neutral1_900</color>
+    <color name="header_action_bar_text_color">@*android:color/system_neutral1_1000</color>
     <color name="header_action_bar_text_color_active">@*android:color/system_accent1_600</color>
     <color name="bottom_action_bar_text_color">@*android:color/system_neutral1_0</color>
 
@@ -104,8 +104,6 @@
     <color name="letter_tile_default_color">@*android:color/system_accent1_600</color>
     <color name="letter_tile_font_color">@*android:color/system_neutral1_0</color>
     <array name="letter_tile_colors">
-        <item>@*android:color/system_accent2_100</item>
-        <item>@*android:color/system_accent3_100</item>
         <item>@*android:color/system_accent1_200</item>
         <item>@*android:color/system_accent2_200</item>
         <item>@*android:color/system_accent3_200</item>
@@ -120,10 +118,7 @@
         <item>@*android:color/system_accent3_400</item>
         <item>@*android:color/system_accent1_500</item>
         <item>@*android:color/system_accent2_500</item>
-        <item>@*android:color/system_accent3_500</item>
         <item>@*android:color/system_accent1_600</item>
-        <item>@*android:color/system_accent2_600</item>
-        <item>@*android:color/system_accent3_600</item>
     </array>
 
     <!-- Color for the visualizer bars -->
